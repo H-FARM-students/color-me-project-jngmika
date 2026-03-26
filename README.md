@@ -1,1 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/R6L1tpn2)
+This is a solution to an assignment from 18/03/26 Computer Science Extended class in H-Farm International School
+* lab_task.pdf            - the lab assignment
+* solution.ipynb/          - the solution code
+* coloredn.png, $n \in {1, 2, 3, 4, 5}$/ - the solution images
+* MysteryData/         - 5 Mystery data files
